@@ -1,6 +1,26 @@
 # LattePanda 3 Delta BIOS Firmware
+## 1. Default BIOS (S70JR230-8G-A_20250416093826)
+Latest BIOS version.
 
-## Default BIOS (S70JR200-CN51G-8G-A)
+### BIOS Information
+
+* Build Date: 2025/4/16
+* BIOS ROM: S70JR230-8G-A_20250416093826.bin
+* CheckSum: 4B75
+* BIOS Message: S70JR230-8G-A BIOS Date: 04/16/2025 09:38:26
+
+###  Update Record
+
+1. Modified Logo
+2. Modified the Main page of BIOS menu 
+3. Added Tcc Activation Offset option
+4. Added options for TP Controller, EDP Display, BIOS Write Protect, Screen Rotation, and Post Logo Message.
+5. Modified Network card info display
+6. Modified DMI information
+7. Update version S70JR230
+
+
+## 2. Default BIOS (S70JR200-CN51G-8G-A)
 This is used for mass production. Your board uses this BIOS firmware by default.
 
 ### BIOS Information
